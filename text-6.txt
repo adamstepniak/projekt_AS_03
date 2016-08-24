@@ -1,0 +1,10 @@
+plik text-6
+opis 1
+opis 1
+opis 1
+koniec wpisu 1
+opis 1
+opis 1
+koniec wpisu 2
+ds wpis
+koniec wpisu ds
